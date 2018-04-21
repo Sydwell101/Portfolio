@@ -1,0 +1,28 @@
+body{
+
+	background-color: goldenrod;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+ul a {
+	display: block;
+	color: lightseagreen;
+	padding: 8px 16px;
+	text-decoration: none;
+
+}
+
+
+div{
+	display: -webkit-flex;
+	-webkit-align-items: center;
+	display: flex;
+	align-items: center;
+
+}
